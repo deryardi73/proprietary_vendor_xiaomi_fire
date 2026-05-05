@@ -858,8 +858,6 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.videotelephony-V1-ndk \
     vendor.mediatek.hardware.videotelephony@1.0 \
     ImsService \
-    mediatek-common \
-    mediatek-framework \
     mediatek-ims-base \
     mediatek-ims-common \
     mediatek-ims-extension-plugin \
@@ -929,8 +927,6 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libpq_prot_so
 
 PRODUCT_BOOT_JARS += \
-    mediatek-common \
-    mediatek-framework \
     mediatek-ims-base \
     mediatek-ims-common \
     mediatek-ims-extension-plugin \
